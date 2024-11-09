@@ -16,7 +16,7 @@ The dataset includes property attributes such as:
 #### **Approach**
 **Data analysis** : Pie Chart to check Male-Female distribution, plots to check weight,height and age distribution, Heatmap to check
 correlation between various features. 
-**Data Preprocessing** : Gad no missing values, encoded categorical features into numeric values 
+**Data Preprocessing** : Had no missing values, encoded categorical features into numeric values 
 **Model Selection**: Tested Gradient Boosting (XGBoost)  
 **Evaluation** : Assessed using MAE, R² Score for accuracy.
 
