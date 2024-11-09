@@ -21,5 +21,5 @@ correlation between various features.
 **Evaluation** : Assessed using MAE, R² Score for accuracy.
 
 ##### **Getting Started**
-Clone the repo and install dependencies.
-This model serves as a tool for real estate investors, buyers, and sellers to make data-driven decisions. Contributions are welcome!
+Clone the repo and install dependencies. 
+This model is valuable in fitness and health applications through which users can calculate how many calories they burned during different exercises.
